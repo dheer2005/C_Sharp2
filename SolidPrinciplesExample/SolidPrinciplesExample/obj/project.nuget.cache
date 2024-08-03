@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgCYS2G/GtU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhire\\source\\repos\\SolidPrinciplesExample\\SolidPrinciplesExample\\SolidPrinciplesExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhire\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\dhire\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
